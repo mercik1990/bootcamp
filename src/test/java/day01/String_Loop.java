@@ -26,7 +26,7 @@ public class String_Loop {
             System.out.println("Not Anagram");
         }
 
-        // print(b.isEmpty() ? "Anagram" : "Not Anagram")
+        // print(b.isEmpty() ? "Anagram" : "Not Anagram")   ,.Anagram
 
     }
 }
